@@ -10,7 +10,7 @@ int MAJ = 0;
 int VER_NUM = 0;
 FILE *fd;
 
-int main(int argc, char **argv){je u se e h
+int main(int argc, char **argv){
     HWND self = GetConsoleWindow();
     HINSTANCE app = GetModuleHandle(NULL);
     fd = fopen("log.txt", "w");
