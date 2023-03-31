@@ -1,2 +1,2 @@
 # Nyx
-Nyx is a key-logger hooking, using bytes memories, written in C during my free time.
+Nyx is a windows key-logger hooking written in C using Windows.h header file.
